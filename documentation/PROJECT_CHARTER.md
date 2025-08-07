@@ -63,7 +63,7 @@ Project Lead: TBD
 
 Project Development Team: Jacqueline Gonzalez and others TBD (may include volunteers, designer, translator)
 
-Additional Stakeholders: City of Alhambra (Code Enforcement, Community Development), property owner
+Additional Stakeholders: City of Alhambra (Code Enforcement, Community Development), property owner, maybe [Alhambra Tenants Union](www.facebook.com/alhambratenantsunion)
 
 
 # Measuring Success
