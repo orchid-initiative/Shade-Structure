@@ -70,7 +70,7 @@ Additional Stakeholders: City of Alhambra (Code Enforcement, Community Developme
 **What is acceptable:**
 
 TBD, but maybe:
-- The renter has shade and storage again in a way she feels good about  
+- The renter has shade and storage again in a way she feels good about before it rains next! 
 - The landlord is comfortable with the setup  
 - City staff agree it meets code intent, even if not standard  
 - Clear, documented path for others who want to try something similar
