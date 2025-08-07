@@ -10,11 +10,7 @@ A Spanish-speaking renter in Alhambra used to have a tarp for shade and storage,
 - Document the process so others in similar situations might benefit  
 
 ## Deliverables
-- One working shade/storage solution installed on-site  
-- Notes from conversations with city staff and residents  
-- Photos and/or sketches of proposed alternatives  
-- Documentation of materials, costs, and design constraints  
-- Optional: lightweight write-up or toolkit for similar projects
+TBD
 
 ## Business Case / Background
 
@@ -45,11 +41,15 @@ Likely under $500 for materials, depending on final design
 # Scope and Exclusion
 
 **In-Scope:**
+
+TBD, but maybe:
 - One renter’s outdoor space  
 - One small-scale solution that meets functional needs and visual standards  
 - City engagement as a collaborative partner
 
 **Out-of-Scope:**
+
+TBD, but maybe:
 - Changing city code  
 - Formal advocacy or campaign work  
 - Widespread community engagement beyond this test case
@@ -68,6 +68,8 @@ Additional Stakeholders: City of Alhambra (Code Enforcement, Community Developme
 
 # Measuring Success
 **What is acceptable:**
+
+TBD, but maybe:
 - The renter has shade and storage again in a way she feels good about  
 - The landlord is comfortable with the setup  
 - City staff agree it meets code intent, even if not standard  
