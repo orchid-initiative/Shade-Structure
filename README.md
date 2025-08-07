@@ -15,3 +15,4 @@ To do: The template should have the charter for projects in progress, but the pr
 - Looking for internal project management documents? Those are stored in this Google Drive folder. (TODO: Fill In)
 
 ### Additional Resources
+- [CA Bill AB-1482 Tenant Protection Act of 2019](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB1482) - This is a good resource to understand the legalities around repairs and renovations of a rented home.
