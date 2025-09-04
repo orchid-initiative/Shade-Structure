@@ -10,7 +10,7 @@ A Spanish-speaking renter in Alhambra used to have a tarp for shade and storage,
 - Document the process so others in similar situations might benefit  
 
 ## Deliverables
-TBD
+- City Engagement Summary: write-up of conversations with code enforcement staff and their guidance.
 
 ## Business Case / Background
 
