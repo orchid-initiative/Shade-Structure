@@ -10,6 +10,12 @@ A Spanish-speaking renter in Alhambra used to have a tarp for shade and storage,
 - Document the process so others in similar situations might benefit  
 
 ## Deliverables
+- Functional Outdoor Setup
+    - Installed and tested shade + storage solution that the renter can actually use and feel good about.
+    - Includes clear photos and dimensions.
+- Documentation Packet
+    - Step-by-step process of what was tried, who was involved, and how it was resolved.
+    - Written in both English and Spanish.
 - City Engagement Summary: write-up of conversations with code enforcement staff and their guidance.
 
 ## Business Case / Background
